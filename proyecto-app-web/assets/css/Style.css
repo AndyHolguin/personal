@@ -1,0 +1,20 @@
+body{
+  background-image: linear-gradient( rgba(0, 0, 0, 0.705),rgba(0, 0, 0, 0.705)),url(../image/LADY-MALECON/fondo.jpg );
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
+
+.menu{
+  color: white;
+}
+
+.cabecera{
+  display: inline;
+}
+.menu1 a{
+  color: white;
+  text-decoration: none;
+  
+}
